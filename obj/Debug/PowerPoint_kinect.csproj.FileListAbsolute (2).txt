@@ -1,0 +1,81 @@
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csprojResolveAssemblyReference.cache
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.baml
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.g.cs
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\App.g.cs
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect_MarkupCompile.cache
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.g.resources
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.Properties.Resources.resources
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csproj.GenerateResource.Cache
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.pdb
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.dll
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Speech.dll
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.xml
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+c:\users\akash_000\documents\visual studio 2015\Projects\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
+F:\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
+F:\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe
+F:\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.pdb
+F:\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.dll
+F:\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.xml
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csprojResolveAssemblyReference.cache
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.baml
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.g.cs
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\App.g.cs
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect_MarkupCompile.cache
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.g.resources
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.Properties.Resources.resources
+F:\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csproj.GenerateResource.Cache
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csprojResolveAssemblyReference.cache
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.baml
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\App.g.cs
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect_MarkupCompile.cache
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.g.resources
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.Properties.Resources.resources
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csproj.GenerateResource.Cache
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.pdb
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Speech.dll
+C:\Users\Pranjal Giri\Documents\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.pdb
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Speech.dll
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.baml
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\App.g.cs
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect_MarkupCompile.cache
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.g.resources
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.Properties.Resources.resources
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csproj.GenerateResource.Cache
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
+C:\Users\Amar Pratap Singh\Desktop\KinectPowerpointControl-master\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csprojResolveAssemblyReference.cache
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.pdb
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Speech.dll
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.baml
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\App.g.cs
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect_MarkupCompile.cache
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.g.resources
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.Properties.Resources.resources
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.csproj.GenerateResource.Cache
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+C:\Users\Rituj Beniwal\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
+C:\Users\akash_000\Desktop\PowerPoint_kinect\PowerPoint_kinect\bin\Debug\PowerPoint_kinect.exe.config
+C:\Users\akash_000\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.exe
+C:\Users\akash_000\Desktop\PowerPoint_kinect\PowerPoint_kinect\obj\Debug\PowerPoint_kinect.pdb
